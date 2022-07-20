@@ -11,10 +11,6 @@ const MenuItems = [
     title: "Главная",
   },
   {
-    path: "/about",
-    title: "Наши сайты",
-  },
-  {
     path: "/blog",
     title: "Новости",
   },
