@@ -29,8 +29,8 @@ const PostMaker = ({ data }) => (
         variant: "variants.button",
       }}
     >
-      See more
-      <span className="icon -right">
+      Все новости
+            <span className="icon -right">
         <RiArrowRightSLine />
       </span>
     </Link>
