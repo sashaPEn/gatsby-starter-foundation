@@ -98,11 +98,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `Новости | 9Б Столинской государственной гимназии`,
+        short_name: `Новости | 9Б`,
         start_url: `/`,
         background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
+        theme_color: `#008000`,
         display: `standalone`,
         icon: "static" + settings.meta.iconimage,
       },
