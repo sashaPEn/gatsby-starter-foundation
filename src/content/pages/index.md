@@ -7,6 +7,6 @@ tagline: Все новости есть не только на этом сайт
 featuredImage: /assets/inthenews.jpg
 cta:
   ctaText: Наши сайты
-  ctaLink: /sites
+  ctaLink: https://sites.9bstolingymnasium.ml
 ---
 **Чтобы узнать какие у нас есть сайты нажмите кнопку внизу "Наши сайты". Чтобы прочитать новости нажмите кнопку в самом низу "Все новости"**
