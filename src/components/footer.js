@@ -17,7 +17,8 @@ const Footer = () => (
           <RiHeart2Line />
         </span>{" "}
        
-       <Link to="https://www.9bstolingymnasium.ml/politika">Политика конфедиальности</Link>
+       <Link to="https://docs.9bstolingymnasium.ml/">Политика конфедиальности</Link>
+       <Link to="https://docs.9bstolingymnasium.ml/polzovatelskoe-soglashenie">Пользовательское Соглашение</Link>
       </p>
     </div>
   </footer>
