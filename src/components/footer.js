@@ -22,6 +22,11 @@ const Footer = () => (
           <RiHeart2Line />
         </span>{" "}
        <Link to="https://docs.9bstolingymnasium.ml/polzovatelskoe-soglashenie">Пользовательское Соглашение</Link>{" "}
+       <img 
+      //src="https://s3.amazonaws.com/codecademy-content/courses/React/react_photo-goose.jpg"
+      src={'/assets/88x31.png'}
+      alt="Canvas Logo"
+    />
       </p>
     </div>
   </footer>
