@@ -17,8 +17,11 @@ const Footer = () => (
           <RiHeart2Line />
         </span>{" "}
        
-       <Link to="https://docs.9bstolingymnasium.ml/">Политика конфедиальности</Link>
-       <Link to="https://docs.9bstolingymnasium.ml/polzovatelskoe-soglashenie">Пользовательское Соглашение</Link>
+       <Link to="https://docs.9bstolingymnasium.ml/">Политика конфедиальности</Link>{" "}
+       <span className="icon -love">
+          <RiHeart2Line />
+        </span>{" "}
+       <Link to="https://docs.9bstolingymnasium.ml/polzovatelskoe-soglashenie">Пользовательское Соглашение</Link>{" "}
       </p>
     </div>
   </footer>
